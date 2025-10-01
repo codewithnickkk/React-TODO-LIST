@@ -3,7 +3,7 @@ import Todos from "../components/Todos";
 
 export const Home = (props) => {
   let homeStyle = {
-    minHeight: "85.4vh",
+    minHeight: "86vh",
   };
 
   return (
